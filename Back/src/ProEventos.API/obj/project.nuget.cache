@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vs0O+uAhygShcsEIyQSylXhb67XYz1aA7KyqUi/7SkSTclE+AJUCNIDqn1H85blfljdijk6poIu4tkjv0LSdSg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.api\\ProEventos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
