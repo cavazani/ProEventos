@@ -20,7 +20,13 @@ namespace ProEventos.API.Controllers
         [HttpGet]
         public String Get()
         {
-            return "Value";
+            return "Exemplo Get";
+        }
+
+                [HttpPost]
+        public String Post()
+        {
+            return "Exemplo Post";
         }
     }
 }
