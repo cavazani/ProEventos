@@ -24,12 +24,20 @@ export class EventosComponent {
   // ]
 
   public eventos: any = [];
+  larguraImagem: number = 100;
+  margemImagem: number = 2;
+  exibirImagem: boolean = true;
+  filtroLista: string = '';
 
   constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
     this.getEventos();
   }
+
+ alterarEstadoDaImagem(){
+  this.exibirImagem = !this.exibirImagem;
+ }
 
   public getEventos(): void {
     this.http.get('https://localhost:5001/api/eventos').subscribe(
