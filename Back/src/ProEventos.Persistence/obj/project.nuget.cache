@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+glgBjyfnhyLVSikm5+3W2p8PePHVA88dOAYxaXP2GANXjtrAVQHk19gTDD1uwhuPef5K+QcLn1d4ebNga+XA==",
+  "dgSpecHash": "mBgPtYMI4CgP46bxushhSrQrvKh4tYtwAoiYJS3l8ZNK+ctnparNSPFPZ6YfpTFqhvUHQY0FfbsQXxGSguc7Xw==",
   "success": true,
-  "projectFilePath": "c:\\Projetos\\aps.net\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+  "projectFilePath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",
     "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Api\\ProEventos.API.csproj": {}
+    "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Api\\ProEventos.API.csproj": {
+    "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Api\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Api\\ProEventos.API.csproj",
+        "projectPath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Api\\obj\\",
+        "outputPath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -261,6 +261,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
