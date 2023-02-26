@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "1acvlR1z0TWeuaA+VGo1ePSjaGL4maSVGbGLwmGkL11AxYVkF3cQKgorCPcujrqqHiS/WdVNSNLQFYfQsWIf9g==",
+  "dgSpecHash": "t+glgBjyfnhyLVSikm5+3W2p8PePHVA88dOAYxaXP2GANXjtrAVQHk19gTDD1uwhuPef5K+QcLn1d4ebNga+XA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Projetos\\aps.net\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.2\\microsoft.entityframeworkcore.analyzers.5.0.2.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
