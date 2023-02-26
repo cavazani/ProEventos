@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "ProEventos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProEventos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProEventos.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ProEventos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProEventos.Domain/ProEventos.Domain.csproj",
+      "msbuildProject": "../ProEventos.Domain/ProEventos.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "ProEventos.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Gabriel Cavazani\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\aps.net\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
