@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ProEventos.Domain;
 
-namespace ProEventos.Persistence.Contexto
+namespace ProEventos.Persistence.Contextos
 {
     public class ProEventosContext : DbContext
     {
