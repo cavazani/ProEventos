@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ProEventos.Persistence;
 using ProEventos.Domain;
+using ProEventos.Persistence.Contexto;
 
 namespace ProEventos.API.Controllers
 {
