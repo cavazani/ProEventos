@@ -16,13 +16,6 @@ namespace ProEventos.API.Controllers
     public class EventosController : ControllerBase
     {
 
-        // private readonly ProEventosContext _context;
-
-        // public EventosController(ProEventosContext context)
-        // {
-        //     _context = context;
-
-        // }
         public readonly IEventoService _eventoService;
 
         public EventosController(IEventoService eventoService)
